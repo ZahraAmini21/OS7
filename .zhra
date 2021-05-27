@@ -1,0 +1,4 @@
+ping 4.2.2.4
+ln -b  OS6-2.sh newOS6-2
+ln -f  OS6-2.sh newOS6-2
+ln --version
